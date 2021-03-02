@@ -1,0 +1,11 @@
+com\eltiempo\utilidades\LectorExcel.class
+com\eltiempo\definition\RegistroDefinitions.class
+com\eltiempo\pageobjects\LoginPageObjects.class
+com\eltiempo\utilidades\FeatureRepository.class
+com\eltiempo\utilidades\Utilidades.class
+com\eltiempo\runners\RunnerFeature.class
+com\eltiempo\steps\LoginSteps.class
+com\eltiempo\steps\RegistroSteps.class
+com\eltiempo\definition\LoginDefinitions.class
+com\eltiempo\pageobjects\RegistroPageObjects.class
+com\eltiempo\utilidades\FeatureOverright.class
